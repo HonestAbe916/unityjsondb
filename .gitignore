@@ -75,4 +75,10 @@ crashlytics-build.properties
 .vscode
 /[Dd]ocumentation/*
 /node_modules/*
+.vsconfig
+/[Pp]ackages/*
+/[Pp]rojectSettings/*
+package-lock.json
+/[Aa]ssets/[Pp]ackages/*
+/[Aa]ssets/[Rr]esources/*
 
