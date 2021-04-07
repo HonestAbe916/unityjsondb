@@ -81,4 +81,5 @@ crashlytics-build.properties
 package-lock.json
 /[Aa]ssets/[Pp]ackages/*
 /[Aa]ssets/[Rr]esources/*
+/[Aa]ssets/[Aa]ssetStoreTools/*
 
